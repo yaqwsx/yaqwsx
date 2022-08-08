@@ -6,7 +6,7 @@ maker from the Czech republic.
 I consider myself a “proper full-stack developer”. I can go anywhere from
 designing a custom circuit on PCB, through programming of the microcontroller,
 to the development of a desktop application up to running web services in the
-cloud. If I need to, I can even program FGPA, though I don’t prefer to. I am
+cloud. If I need to, I can even program FPGA, though I don’t prefer to. I am
 also not afraid of designing mechanical constructions, however, this rather a
 hobby than something I was educated in and I am a master in. However, I know how
 to run a mill, lathe, I can program a CNC machine or control a laser cutter.
